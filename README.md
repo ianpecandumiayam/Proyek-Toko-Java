@@ -2,8 +2,11 @@
 
 Aplikasi desktop sederhana berbasis **Java Swing** dan **SQLite** untuk mengelola stok barang di toko. Proyek ini dibuat untuk belajar konsep **CRUD** (Create, Read, Update, Delete) dan database.
 
-## Screenshots
---
+### Tampilan Aplikasi
+
+| Input Barang | Edit Barang | Hapus Barang |
+| :---: | :---: | :---: |
+| ![Input](screenshots/input.png) | ![Edit](screenshots/edit.png) | ![Hapus](screenshots/hapus.png) |
 
 ##  Fitur Utama
 *  **Input Barang:** Nambahin data barang baru (Kode, Nama, Harga).
